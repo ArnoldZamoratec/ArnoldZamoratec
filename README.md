@@ -1,6 +1,7 @@
 ### Hola, soy Arnold! 👋
 
-👨‍💻 FUTURO INGINIERO  DE SOFTWARE CON INTELIGENCIA ARTIFICIAL EN PROCESO 
+👨‍💻 FUTURO INGINIERO  DE SOFTWARE CON INTELIGENCIA ARTIFICIAL 
+
 
 💻 Apasionado por la ciberseguridad y la tecnología. Explorando el mundo del hacking ético y la seguridad informática.  
 🐍 Actualmente aprendiendo Python.  
