@@ -52,40 +52,32 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos Destacados
 
 ### 🏘️ Ayni Vecinal
-Community security management platform.  
-**Stack:** React Native, Supabase  
+Plataforma de gestión de seguridad comunitaria.
+**Stack:** React Native, Supabase
 
 ---
 
 ### 🛒 Mi Bodega Digital
-Inventory and sales system for small businesses.  
-**Stack:** JavaScript, Firebase, Tailwind  
+Sistema de inventario y ventas para pequeñas empresas.
+**Stack:** JavaScript, Firebase, Tailwind
 
 ---
 
-### 💊 Generic Medicine Search Engine
-Backend-powered medicine search system.  
-**Stack:** Python, FastAPI, Vite  
+### 💊 Buscador de Medicamentos Genéricos
+Sistema de búsqueda de medicamentos con backend.
+**Stack:** Python, FastAPI, Vite
 
 ---
 
-### 🛡️ Pentesting Labs
-Security testing labs and vulnerability reporting.  
+### 🛡️ Laboratorios de Pentesting
+Laboratorios de pruebas de seguridad y reporte de vulnerabilidades.
 **Stack:** Kali Linux, Bash, Python  
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=default"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=default"/>
-
-</div>
 
 ---
 
@@ -94,8 +86,8 @@ Security testing labs and vulnerability reporting.
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40blexed.arnie-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/blexed.arnie)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO_DE_GITHUB)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArnoldZamoratec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-huaman/)
 
 </div>
 
@@ -103,6 +95,6 @@ Security testing labs and vulnerability reporting.
 
 <div align="center">
 
-💬 *“Security is not a product, it’s a continuous process.”*
+💬 *“La seguridad no es un producto, es un proceso continuo.”*
 
 </div>
