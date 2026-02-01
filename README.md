@@ -82,7 +82,7 @@ Security testing labs and vulnerability reporting.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=default"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=default"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=default"/>
 
 </div>
