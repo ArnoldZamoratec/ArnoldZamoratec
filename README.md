@@ -86,16 +86,19 @@ I architect **secure, scalable, production-ready systems** that bridge:
 ## 📈 Development Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=ArnoldZamoratec&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArnoldZamoratec&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
