@@ -9,114 +9,126 @@
 
 ## 🚀 Professional Profile
 
-🎓 Software Engineering — **SENATI**  
+🎓 **Software Engineering** — *SENATI*  
 🏅 **PRONABEC Beca 18 Scholar**  
-🛡️ Security-First Backend & AI Engineering  
+🛡️ **Security-First Backend & AI Engineering**
 
-I build **secure, scalable, production-ready systems** combining:
+I architect **secure, scalable, production-ready systems** that bridge:
 
-- Defensive cybersecurity  
-- High-performance backend engineering  
-- Applied AI automation  
-- Cloud-native architectures  
+- **Defensive cybersecurity** with **high-performance backend engineering**
+- **Applied AI automation** and **cloud-native architectures**
+- **Real-time threat detection** and **resilient microservices**
 
 ---
 
 ## 🧠 Engineering Core
 
-| Backend Systems | Cybersecurity | Applied AI |
-|---|---|---|
+| **Backend Systems** | **Cybersecurity** | **Applied AI** |
+|-------------------|------------------|---------------|
 | REST / GraphQL APIs | OWASP Top 10 Defense | LLM Integrations |
-| Microservices | Secure Auth (JWT / OAuth2) | Predictive Security Models |
-| Distributed Systems | Encryption / Hashing | Automation Systems |
-| Database Optimization | Pentesting Concepts | Data Intelligence |
+| Microservices Architecture | Secure Auth (JWT/OAuth2) | Predictive Security Models |
+| Distributed Systems | Encryption & Hashing | Intelligent Automation |
+| Database Optimization | Pentesting Fundamentals | Data Intelligence |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Backend
+### 💻 **Languages & Backend**
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,postgres" />
 </p>
 
-### ☁️ Cloud & Infra
+### ☁️ **Cloud & Infrastructure**
 <p>
 <img src="https://skillicons.dev/icons?i=docker,linux,firebase,supabase,git,github" />
 </p>
 
-### 🛡️ Security
+### 🔒 **Security Toolkit**
 <p>
 <img src="https://skillicons.dev/icons?i=linux,bash" />
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ Ayni Vecinal — Community Security Platform
-Stack: React Native · Supabase · Edge Functions  
-✔ Secure multi-tenant auth  
-✔ Encrypted real-time alerts  
-✔ Community security automation  
+### 🛡️ **Ayni Vecinal** — Community Security Platform
+**Stack:** React Native · Supabase · Edge Functions  
+**Achievements:**
+- Secure multi-tenant authentication system
+- Encrypted real-time neighborhood alerts
+- Community-driven threat reporting dashboard
 
 ---
 
-### ⚡ Generic Medicine Search Engine
-Stack: FastAPI · PostgreSQL · Cache  
-✔ 40% faster queries  
-✔ Advanced indexing  
-✔ Scalable backend architecture  
+### ⚡ **Generic Medicine Search Engine**
+**Stack:** FastAPI · PostgreSQL · Redis  
+**Achievements:**
+- 40% query latency reduction through advanced indexing
+- Scalable microservice architecture
+- Intelligent caching implementation
 
 ---
 
-### 📦 Mi Bodega Digital — Serverless Inventory
-Stack: Firebase · Cloud Functions · JavaScript  
-✔ Real-time analytics  
-✔ Zero infrastructure model  
-✔ Production CRUD system  
+### 📦 **Mi Bodega Digital** — Serverless Inventory Management
+**Stack:** Firebase · Cloud Functions · JavaScript  
+**Achievements:**
+- Zero-cost infrastructure model
+- Real-time inventory analytics dashboard
+- Production-ready CRUD with audit trails
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Development Activity
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ArnoldZamoratec&theme=tokyonight&hide_border=true&fire=DD2727)
+
+</div>
+
+---
+
+## 🎯 Current Status
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=ArnoldZamoratec&theme=tokyonight&hide_border=true"/>
+  
+<img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Education-SENATI-1E88E5?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scholar-Beca%2018-FFB300?style=for-the-badge&logo=trophy&logoColor=black"/>
 
 </p>
 
 ---
 
-## 📡 Professional Status
-
-<p>
-<img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Education-SENATI-1E88E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scholar-Beca%2018-FFB300?style=for-the-badge"/>
-</p>
-
----
-
-## 🤝 Connect
+## 📡 Connect & Collaborate
 
 <p align="center">
-<a href="https://linkedin.com/in/arnoldhuaman">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  
+<a href="https://linkedin.com/in/arnoldhuaman" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:tu-email@ejemplo.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+
+<a href="mailto:tu-email@ejemplo.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/ArnoldZamoratec" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-<i>"Security is not a product — it is a continuous process of evolution."</i>
+<em>"Security is not a feature — it's the foundation of every resilient system."</em>
 </p>
