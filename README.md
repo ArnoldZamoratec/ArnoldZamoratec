@@ -86,19 +86,35 @@ I architect **secure, scalable, production-ready systems** that bridge:
 ## 📈 Development Activity
 
 <p align="center">
+  
+<table align="center">
+<tr>
 
-<img height="165" src="https://streak-stats.demolab.com?user=ArnoldZamoratec&theme=tokyonight&hide_border=true" />
+<td align="center" width="33%">
+  
+**🔥 Coding Streak**  
+<img height="150" src="https://streak-stats.demolab.com?user=ArnoldZamoratec&theme=tokyonight&hide_border=true&fire=DD2727&background=0D1117" />
 
-<br/>
+</td>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<td align="center" width="33%">
+  
+**📊 Profile Stats**  
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
 
-<br/>
+</td>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" />
+<td align="center" width="33%">
+  
+**💻 Top Tech**  
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&bg_color=0D1117" />
+
+</td>
+
+</tr>
+</table>
 
 </p>
-
 
 ---
 
