@@ -1,90 +1,119 @@
-🛡️ Arnold Huaman Zamora
-
-Software Engineer | Backend Architect | AI & Cybersecurity Researcher
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2d3436,100:000000&height=220&section=header&text=Arnold%20Huaman%20Zamora&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Security-First%20Engineering%20|%20Applied%20AI%20|%20Scalable%20Systems&descAlignY=65&descColor=bdc3c7" />
+# 🛡️ Arnold Huaman Zamora
+### Software Engineer | Backend Architect | AI & Cybersecurity Researcher
 
 <p align="center">
-<img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/Education-SENATI-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Award-Beca%2018%20Scholar-gold?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=ArnoldZamoratec&label=PROFILE+VISITS&color=000000&style=flat-square" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arnold%20Huaman%20Zamora&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Security-First%20Engineering%20•%20Applied%20AI%20•%20Scalable%20Systems&descAlignY=65"/>
 </p>
-</div>
 
-## 👨‍💻 Professional Synopsis
+---
 
-I am a Software Engineering student at SENATI and a PRONABEC Beca 18 scholar. My mission is to bridge the gap between high-performance backend systems and defensive cybersecurity. I don't just write code; I engineer resilient architectures that prioritize security by design, scalability, and maintainability.
+## 🚀 Professional Profile
 
-## 🧠 Core Engineering Pillars
+🎓 Software Engineering Student — **SENATI**  
+🏅 **PRONABEC Beca 18 Scholar**  
+🛡️ Security-First Backend & AI Engineering  
 
-| **Backend Mastery**          | **Defensive Security**        | **Applied Intelligence**      |
-|------------------------------|-------------------------------|-------------------------------|
-| RESTful & GraphQL APIs       | OWASP Top 10 Mitigation       | LLM Implementation            |
-| Distributed Systems          | Secure Auth (JWT/OAuth2)      | Predictive Security Models    |
-| Microservices Architecture   | Penetration Testing Concepts  | Smart Automation Scripts      |
-| Database Optimization        | Encryption & Hashing          | Data-Driven Decisions         |
+I design and build **secure, scalable, production-ready systems** focused on:
 
-## 🛠️ Technical Ecosystem
+- Defensive cybersecurity integration  
+- High-performance backend architectures  
+- Applied AI for real-world automation  
+- Cloud-native & distributed systems  
 
-<details open>
-<summary><b>Development & Languages</b></summary>
+---
+
+## 🧠 Engineering Core Pillars
+
+| Backend Systems | Cybersecurity | Applied AI |
+|---|---|---|
+| REST / GraphQL APIs | OWASP Top 10 Defense | LLM Integrations |
+| Microservices | Secure Auth (JWT / OAuth2) | Security Prediction Models |
+| Distributed Systems | Encryption & Hashing | Smart Automation |
+| DB Optimization | Pentesting Concepts | Data Intelligence |
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Backend
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,postgres" />
 </p>
-</details>
 
-<details open>
-<summary><b>Cybersecurity & Infrastructure</b></summary>
+### ☁️ Cloud & Infrastructure
 <p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,firebase,supabase,git,github" />
 </p>
-</details>
 
-## 🚀 Featured Engineering Projects
+### 🛡️ Cybersecurity Tools
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+</p>
 
-### 🛡️ Ayni Vecinal | Community Security Ecosystem
-**Challenge:** Creating a real-time collaborative security framework for local neighborhoods.  
-**Tech:** React Native, Supabase, Edge Functions.  
-**Outcome:** Implemented a multi-tenant authentication system with encrypted real-time alerts.
+---
 
-### ⚡ Generic Medicine Search Engine | High-Performance Backend
-**Challenge:** Optimizing search queries across large medical datasets.  
-**Tech:** Python (FastAPI), PostgreSQL Indexing.  
-**Outcome:** Reduced query latency by 40% through advanced database indexing and caching strategies.
+## 🚀 Featured Projects
 
-### 📦 Mi Bodega Digital | Serverless Inventory Management
-**Challenge:** Digitalizing small business logistics with zero infrastructure cost.  
-**Tech:** JavaScript, Firebase Firestore, Cloud Functions.  
-**Outcome:** A production-ready CRUD system providing real-time insights for local merchants.
+### 🛡️ Ayni Vecinal — Community Security Platform
+**Stack:** React Native · Supabase · Edge Functions  
+✔ Multi-tenant secure authentication  
+✔ Encrypted real-time alerts  
+✔ Community security automation  
 
-📊 Performance & Coding Activity
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000&title_color=4FC3F7&icon_color=4FC3F7&text_color=9AA4B2"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4FC3F7&text_color=9AA4B2"/>
+---
 
-<br/><br/>
+### ⚡ Generic Medicine Search Engine
+**Stack:** FastAPI · PostgreSQL · Caching Layer  
+✔ Query latency reduced **40%**  
+✔ Advanced indexing strategies  
+✔ Scalable search architecture  
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldZamoratec&theme=tokyonight&hide_border=true&background=00000000&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7"/> </div>
-## 📬 Let's Connect
+---
 
-I am actively seeking collaborations with senior engineering teams where I can contribute to secure, high-impact systems.
+### 📦 Mi Bodega Digital — Serverless Inventory
+**Stack:** Firebase · Cloud Functions · JS  
+✔ Real-time business analytics  
+✔ Zero infrastructure cost model  
+✔ Production-ready CRUD system  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldZamoratec&theme=tokyonight&hide_border=true"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📡 Professional Status
+
+<p>
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Education-SENATI-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scholar-Beca%2018-FFB300?style=for-the-badge"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/arnoldhuaman">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 <a href="mailto:tu-email@ejemplo.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 </p>
+
+---
 
 <p align="center">
 <i>"Security is not a product — it is a continuous process of evolution."</i>
