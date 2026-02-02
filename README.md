@@ -9,27 +9,27 @@
 
 ## 🚀 Professional Profile
 
-🎓 Software Engineering Student — **SENATI**  
+🎓 Software Engineering — **SENATI**  
 🏅 **PRONABEC Beca 18 Scholar**  
 🛡️ Security-First Backend & AI Engineering  
 
-I design and build **secure, scalable, production-ready systems** focused on:
+I build **secure, scalable, production-ready systems** combining:
 
-- Defensive cybersecurity integration  
-- High-performance backend architectures  
-- Applied AI for real-world automation  
-- Cloud-native & distributed systems  
+- Defensive cybersecurity  
+- High-performance backend engineering  
+- Applied AI automation  
+- Cloud-native architectures  
 
 ---
 
-## 🧠 Engineering Core Pillars
+## 🧠 Engineering Core
 
 | Backend Systems | Cybersecurity | Applied AI |
 |---|---|---|
 | REST / GraphQL APIs | OWASP Top 10 Defense | LLM Integrations |
-| Microservices | Secure Auth (JWT / OAuth2) | Security Prediction Models |
-| Distributed Systems | Encryption & Hashing | Smart Automation |
-| DB Optimization | Pentesting Concepts | Data Intelligence |
+| Microservices | Secure Auth (JWT / OAuth2) | Predictive Security Models |
+| Distributed Systems | Encryption / Hashing | Automation Systems |
+| Database Optimization | Pentesting Concepts | Data Intelligence |
 
 ---
 
@@ -40,12 +40,12 @@ I design and build **secure, scalable, production-ready systems** focused on:
 <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,postgres" />
 </p>
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Infra
 <p>
 <img src="https://skillicons.dev/icons?i=docker,linux,firebase,supabase,git,github" />
 </p>
 
-### 🛡️ Cybersecurity Tools
+### 🛡️ Security
 <p>
 <img src="https://skillicons.dev/icons?i=linux,bash" />
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
@@ -57,37 +57,39 @@ I design and build **secure, scalable, production-ready systems** focused on:
 ## 🚀 Featured Projects
 
 ### 🛡️ Ayni Vecinal — Community Security Platform
-**Stack:** React Native · Supabase · Edge Functions  
-✔ Multi-tenant secure authentication  
+Stack: React Native · Supabase · Edge Functions  
+✔ Secure multi-tenant auth  
 ✔ Encrypted real-time alerts  
 ✔ Community security automation  
 
 ---
 
 ### ⚡ Generic Medicine Search Engine
-**Stack:** FastAPI · PostgreSQL · Caching Layer  
-✔ Query latency reduced **40%**  
-✔ Advanced indexing strategies  
-✔ Scalable search architecture  
+Stack: FastAPI · PostgreSQL · Cache  
+✔ 40% faster queries  
+✔ Advanced indexing  
+✔ Scalable backend architecture  
 
 ---
 
 ### 📦 Mi Bodega Digital — Serverless Inventory
-**Stack:** Firebase · Cloud Functions · JS  
-✔ Real-time business analytics  
-✔ Zero infrastructure cost model  
-✔ Production-ready CRUD system  
+Stack: Firebase · Cloud Functions · JavaScript  
+✔ Real-time analytics  
+✔ Zero infrastructure model  
+✔ Production CRUD system  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&hide_border=true"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldZamoratec&theme=tokyonight&hide_border=true"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=ArnoldZamoratec&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -95,14 +97,14 @@ I design and build **secure, scalable, production-ready systems** focused on:
 ## 📡 Professional Status
 
 <p>
-<img src="https://img.shields.io/badge/Status-Open%20To%20Work-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Education-SENATI-1E88E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scholar-Beca%2018-FFB300?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/arnoldhuaman">
