@@ -1,68 +1,83 @@
-# 🛡️ Arnold Huaman Zamora
-### Software Engineer | Backend Architect | AI & Cybersecurity Researcher
-
+<!-- HEADER VISUAL -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arnold%20Huaman%20Zamora&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Security-First%20Engineering%20•%20Applied%20AI%20•%20Scalable%20Systems&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=240&section=header&text=Arnold%20Huaman%20Zamora&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Backend%20Architect%20•%20AI%20Engineer%20•%20Cybersecurity%20Researcher&descAlignY=65"/>
 </p>
 
 ---
 
-## 🚀 Professional Profile
+# 🛡️ Arnold Huaman Zamora
+### ⚡ Security-First Software Engineer | Backend | AI | Cybersecurity
 
-🎓 Software Engineering — SENATI  
-🏅 PRONABEC Beca 18 Scholar  
-🛡️ Security-First Backend & AI Engineering  
+<p align="center">
 
-I architect secure, scalable, production-ready systems that bridge:
+<img src="https://img.shields.io/badge/Location-Peru-ff4b4b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Work-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Secure%20Systems-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mindset-Production%20Ready-9C27B0?style=for-the-badge"/>
 
-- Defensive cybersecurity with high-performance backend engineering  
-- Applied AI automation and cloud-native architectures  
-- Real-time threat detection and resilient microservices  
+</p>
 
 ---
 
-## 🧠 Engineering Core
+## 🚀 About Me
 
-**Backend Systems**
+🧠 I design **secure, scalable, real-world production systems**
+
+🔐 Security is integrated **from architecture → code → deployment**
+
+⚡ Specialized in:
+- High-Performance Backend Systems  
+- Applied AI Automation  
+- Cloud Native & Microservices  
+- Cybersecurity Engineering  
+
+🎓 Software Engineering — **SENATI**  
+🏅 **PRONABEC Beca 18 Scholar**
+
+---
+
+## 🧠 Engineering Domains
+
+### ⚡ Backend Architecture
+- Microservices & Distributed Systems  
 - REST / GraphQL APIs  
-- Microservices Architecture  
-- Distributed Systems  
-- Database Optimization  
+- High Performance Database Design  
+- Caching & Query Optimization  
 
-**Cybersecurity**
+### 🔐 Cybersecurity
 - OWASP Top 10 Defense  
-- Secure Auth (JWT / OAuth2)  
+- Secure Authentication (JWT / OAuth2)  
 - Encryption & Hashing  
 - Pentesting Fundamentals  
 
-**Applied AI**
+### 🤖 Applied AI
 - LLM Integrations  
-- Predictive Security Models  
 - Intelligent Automation  
-- Data Intelligence  
+- Security AI Models  
+- Data Intelligence Systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Backend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,postgres" />
+### 💻 Backend & Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,fastapi,postgres" />
 </p>
 
-### ☁️ Cloud & Infrastructure
-<p align="left">
+### ☁️ Cloud & DevOps
+<p>
 <img src="https://skillicons.dev/icons?i=docker,linux,firebase,supabase,git,github" />
 </p>
 
 ### 🔒 Security Toolkit
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=linux,bash" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6B35?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kalilinux"/>
+<img src="https://img.shields.io/badge/Nmap-darkblue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
 </p>
 
 ---
@@ -70,129 +85,90 @@ I architect secure, scalable, production-ready systems that bridge:
 ## 🚀 Featured Projects
 
 ### 🛡️ Ayni Vecinal — Community Security Platform
-**Stack:** React Native · Supabase · Edge Functions  
+**React Native · Supabase · Edge Functions**
 
-- Secure multi-tenant authentication system  
-- Encrypted real-time neighborhood alerts  
-- Community-driven threat reporting dashboard  
-
-<img src="https://img.shields.io/badge/Production-Ready-4CAF50?style=flat-square">
+✔ Secure Multi-Tenant Auth  
+✔ Encrypted Real-Time Alerts  
+✔ Community Threat Reporting  
 
 ---
 
 ### ⚡ Generic Medicine Search Engine
-**Stack:** FastAPI · PostgreSQL · Redis · Docker  
+**FastAPI · PostgreSQL · Redis · Docker**
 
-- 40% query latency reduction through advanced indexing  
-- Scalable microservice architecture  
-- Intelligent caching implementation  
-
-<img src="https://img.shields.io/badge/Response%20Time-<200ms-brightgreen?style=flat-square">
+✔ 40% Latency Reduction  
+✔ Intelligent Cache Layer  
+✔ Scalable Microservices  
 
 ---
 
-### 📦 Mi Bodega Digital — Serverless Inventory Management
-**Stack:** Firebase · Cloud Functions · JavaScript · Firestore  
+### 📦 Mi Bodega Digital
+**Firebase · Cloud Functions · Firestore**
 
-- Zero-cost infrastructure model  
-- Real-time inventory analytics dashboard  
-- Production-ready CRUD with audit trails  
-
-<img src="https://img.shields.io/badge/Monthly%20Cost-$0.00-success?style=flat-square">
+✔ Zero Cost Infra Model  
+✔ Real Time Analytics  
+✔ Audit Ready CRUD  
 
 ---
 
-## 🏆 Coding Activity
+## 📊 GitHub Analytics
 
-```mermaid
-gantt
-    title Weekly Development Focus
-    dateFormat  X
-    axisFormat %s
-    section Backend
-    API Development      :a1, 0, 8
-    Database Design      :a2, 8, 6
-    Microservices        :a3, 14, 8
-    section Security
-    Code Review          :b1, 0, 4
-    Security Testing     :b2, 4, 8
-    Encryption           :b3, 12, 4
-    section AI/ML
-    Model Training       :c1, 0, 6
-    Integration          :c2, 6, 8
-    Optimization         :c3, 14, 4
-```
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldZamoratec&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-<p align="center">
-<img src="https://img.shields.io/badge/🔥%20Open%20To%20Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/🎓%20SENATI-1E88E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏅%20Beca%2018-FFB300?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📚%20Learning-Cybersecurity-9C27B0?style=for-the-badge"/>
-</p>
-
-**Currently Building**
-- 🔐 Secure Auth Systems  
-- ⚡ High-Performance APIs  
-- 🤖 AI Integration Tools  
-
-**Learning / Exploring**
-- 🔍 Threat Hunting  
-- 🛡️ Cloud Security  
-- 🌐 Web3 Security  
-- 📊 Security Analytics  
-- 🚀 Edge Computing  
+```diff
++ Secure Authentication Architectures
++ AI Security Automation
++ High Performance APIs
++ Cloud Security
++ Threat Detection Systems
+```
 
 ---
 
-## 🌟 GitHub Highlights
+## 📡 Connect With Me
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldZamoratec&theme=dark&border_radius=8"/>
-</p>
 
----
-
-## 📡 Connect & Collaborate
-
-<p align="center">
-<strong>🤝 Let's Build Secure Systems Together</strong>
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/arnoldhuaman" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/arnoldhuaman">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+
 <a href="mailto:huamanzamoraarnold@gmail.com">
-<img src="https://custom-icon-badges.demolab.com/badge/Email-Send%20Proposal-D14836?style=for-the-badge&logo=mail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
+
 <a href="https://github.com/ArnoldZamoratec">
-<img src="https://custom-icon-badges.demolab.com/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ArnoldZamoratec&color=blue&style=flat-square&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ArnoldZamoratec&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-<em>"Security is not a feature — it's the foundation of every resilient system."</em>
+<b>⚡ "Security is not a feature — it's the foundation."</b>
 </p>
-
----
-
-## 📈 Development Metrics
-
-| Activity | Quality | Impact |
-|---|---|---|
-| 🟢 Consistent Commits | 🔵 Clean Architecture | ⭐ Production Ready |
-| 🟡 Active Contributor | 🟣 Security-First | 🚀 Scalable Solutions |
-| 🔴 Passionate Builder | 🟢 Test Coverage | 💡 Innovative Approach |
-
