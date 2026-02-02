@@ -67,15 +67,12 @@ I am a Software Engineering student at SENATI and a PRONABEC Beca 18 scholar. My
 **Tech:** JavaScript, Firebase Firestore, Cloud Functions.  
 **Outcome:** A production-ready CRUD system providing real-time insights for local merchants.
 
-## 📊 Performance Analytics
+📊 Performance & Coding Activity
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=00000000&title_color=4FC3F7&icon_color=4FC3F7&text_color=9AA4B2"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=4FC3F7&text_color=9AA4B2"/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=dark&count_private=true&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=dark&hide_border=true" height="165"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldZamoratec&theme=dark&hide_border=true"/>
-</div>
+<br/><br/>
 
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldZamoratec&theme=tokyonight&hide_border=true&background=00000000&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7"/> </div>
 ## 📬 Let's Connect
 
 I am actively seeking collaborations with senior engineering teams where I can contribute to secure, high-impact systems.
