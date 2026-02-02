@@ -1,161 +1,130 @@
-🤍 Arnold Huaman Zamora
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:F2F4F7,100:E6EAF0&height=220&section=header&text=Arnold%20Huaman%20Zamora&fontSize=48&fontColor=1A1A1A&animation=fadeIn&desc=Software%20Engineering%20|%20Backend%20|%20AI%20|%20Cybersecurity&descAlignY=60&descColor=444"/> <img src="https://komarev.com/ghpvc/?username=ArnoldZamoratec&label=PROFILE+VISITS&color=gray&style=flat" /> </div>
-👨‍💻 About Me
+🛡️ Arnold Huaman Zamora
 
-🎓 Software Engineering Student — SENATI
-🏆 Beca 18 — PRONABEC
-🐍 Focused on Backend Development + Security + Applied AI
+Software Engineer | Backend Architect | AI & Cybersecurity Researcher
 
-I build systems that are:
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:1a1a1a,50:2d3436,100:000000%26height%3D220%26section%3Dheader%26text%3DArnold%2520Huaman%2520Zamora%26fontSize%3D48%26fontColor%3Dffffff%26animation%3DfadeIn%26desc%3DSecurity-First%2520Engineering%2520|%20Applied%20AI%20|%20Scalable%20Systems&descAlignY=65&descColor=bdc3c7" />
 
-✔ Secure by design
-✔ Scalable
-✔ Production-ready
-✔ Built to solve real-world problems
+<p align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Open%2520To%2520Work-success%3Fstyle%3Dflat-square%26logo%3Dgithub" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Education-SENATI-blue%3Fstyle%3Dflat-square" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Award-Beca%252018%2520Scholar-gold%3Fstyle%3Dflat-square" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DArnoldZamoratec%26label%3DPROFILE%2BVISITS%26color%3D000000%26style%3Dflat-square" />
+</p>
+</div>
 
-🚀 Professional Mindset
+👨‍💻 Professional Synopsis
 
-💡 I believe in:
+I am a Software Engineering student at SENATI and a PRONABEC Beca 18 scholar. My mission is to bridge the gap between high-performance backend systems and defensive cybersecurity. I don't just write code; I engineer resilient architectures that prioritize security by design, scalability, and maintainability.
 
-Security by Design
+🧠 Core Engineering Pillars
 
-Clean & Maintainable Code
+Backend Mastery
 
-Continuous Learning
+Defensive Security
 
-Real Problem Solving with Tech
+Applied Intelligence
 
-Smart Automation
+RESTful & GraphQL APIs
 
-🧠 Core Technical Foundations
-🧩 Programming Fundamentals
+OWASP Top 10 Mitigation
 
-Data Structures
+LLM Implementation
 
-Algorithms
+Distributed Systems
 
-Object-Oriented Programming
+Secure Auth (JWT/OAuth2)
 
-Big O Complexity
+Predictive Security Models
 
-Unit Testing Basics
+Microservices Architecture
 
-🗄️ Backend Essentials
+Penetration Testing Concepts
 
-REST API Development
+Smart Automation Scripts
 
-JWT Authentication
+Database Optimization
 
-Database Design & Queries
+Encryption & Hashing
 
-MVC & Clean Architecture
+Data-Driven Decisions
 
-Logging & Error Handling
+🛠️ Technical Ecosystem
 
-🐧 Systems & Environment
+<details open>
+<summary><b>Development & Languages</b></summary>
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dfor-the-badge%26logo%3Dfastapi%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+</details>
 
-Linux CLI
+<details open>
+<summary><b>Cybersecurity & Infrastructure</b></summary>
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-557C94%3Fstyle%3Dfor-the-badge%26logo%3Dkalilinux%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux_Kernel-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Nmap-4F5D95%3Fstyle%3Dfor-the-badge%26logo%3Dnmap%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack"/>
+</p>
+</details>
 
-Git & GitHub Workflow
+🚀 Featured Engineering Projects
 
-Docker Basics
+🛡️ Ayni Vecinal | Community Security Ecosystem
 
-Networking Fundamentals
+Challenge: Creating a real-time collaborative security framework for local neighborhoods.
 
-🔐 Security Fundamentals
+Tech: React Native, Supabase, Edge Functions.
 
-OWASP Top 10
+Outcome: Implemented a multi-tenant authentication system with encrypted real-time alerts.
 
-Secure Input Handling
+⚡ Generic Medicine Search Engine | High-Performance Backend
 
-Password Hashing
+Challenge: Optimizing search queries across large medical datasets.
 
-Secure Authentication Flows
+Tech: Python (FastAPI), PostgreSQL Indexing.
 
-Ethical Pentesting Concepts
+Outcome: Reduced query latency by 40% through advanced database indexing and caching strategies.
 
-🛠️ Tech Stack
-💻 Development
-<p> <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
-🔐 Cybersecurity
-<p> <img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge"/> </p>
-☁️ Infrastructure
-<p> <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=white"/> </p>
-📚 Currently Learning
+📦 Mi Bodega Digital | Serverless Inventory Management
 
-Scalable Backend Architectures
+Challenge: Digitalizing small business logistics with zero infrastructure cost.
 
-API Security (Advanced)
+Tech: JavaScript, Firebase Firestore, Cloud Functions.
 
-Machine Learning for Security
+Outcome: A production-ready CRUD system providing real-time insights for local merchants.
 
-Cloud Deployment
+📊 Performance Analytics
 
-Python Automation
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DArnoldZamoratec%26show_icons%3Dtrue%26theme%3Ddark%26count_private%3Dtrue%26hide_border%3Dtrue" height="165"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DArnoldZamoratec%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" height="165"/>
 
-🚀 Featured Projects
-🏘️ Ayni Vecinal
 
-Community security platform.
 
-Stack:
-React Native • Supabase
 
-Key Learnings:
 
-Mobile + Backend Architecture
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DArnoldZamoratec%26theme%3Ddark%26hide_border%3Dtrue"/>
+</div>
 
-Authentication Systems
+📬 Let's Connect
 
-User Management
+I am actively seeking collaborations with senior engineering teams where I can contribute to secure, high-impact systems.
 
-💊 Generic Medicine Search Engine
+<p align="center">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/arnoldhuaman">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+</a>
+</p>
 
-High-performance backend search system.
-
-Stack:
-Python • FastAPI
-
-Key Learnings:
-
-Production-level API Design
-
-Query Optimization
-
-Real Backend Architecture
-
-🛒 Mi Bodega Digital
-
-Inventory system for local businesses.
-
-Stack:
-JavaScript • Firebase
-
-Key Learnings:
-
-Serverless Backend
-
-Production CRUD Systems
-
-UX for Real Businesses
-
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=default&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact" height="165"/> </div>
-🔥 Consistency
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldZamoratec"/> </div>
-🎯 Professional Goal
-
-I’m looking for opportunities where I can:
-
-✔ Grow as a Backend Developer
-✔ Work on Secure Systems
-✔ Build AI-powered Solutions
-✔ Learn from Senior Engineering Teams
-
-🤝 Let's Connect
-
-📌 Always open to collaboration, learning, and building impactful technology.
-
-🤍 Philosophy
-
-"Security is not a product — it is a continuous process."
+<p align="center">
+<i>"Security is not a product — it is a continuous process of evolution."</i>
+</p>
