@@ -84,21 +84,6 @@
 
 ## 🚀 Featured Projects
 
-### 🛡️ Ayni Vecinal — Community Security Platform
-**React Native · Supabase · Edge Functions**
-
-✔ Secure Multi-Tenant Auth  
-✔ Encrypted Real-Time Alerts  
-✔ Community Threat Reporting  
-
----
-
-### ⚡ Generic Medicine Search Engine
-**FastAPI · PostgreSQL · Redis · Docker**
-
-✔ 40% Latency Reduction  
-✔ Intelligent Cache Layer  
-✔ Scalable Microservices  
 
 ---
 
