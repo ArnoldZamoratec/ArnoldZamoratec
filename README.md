@@ -15,7 +15,7 @@
 
 ## 🤖 Terminal.exe$ whoami
 
-```bash
+
 > Arnold Huaman Zamora
 > Role: AI Systems Engineer & Software Architect
 > Focus: Bridging Research Models and Production Infrastructure
