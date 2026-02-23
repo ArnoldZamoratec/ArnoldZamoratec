@@ -1,148 +1,112 @@
-<!-- HEADER VISUAL -->
+<!-- HEADER VISUAL DEV STYLE -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A4D2E,50:6B4F3C,100:A77B55&height=240&section=header&text=Arnold%20Huaman%20Zamora&fontSize=48&fontColor=F5F5DC&animation=fadeIn&desc=Aspirante%20a%20Backend%20•%20AI%20•%20Ciberseguridad&descAlignY=65&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Arnold%20Huaman%20Zamora&fontSize=50&fontColor=00F5FF&animation=fadeIn&desc=Backend%20•%20AI%20•%20Cybersecurity&descAlignY=65&descSize=22"/>
 </p>
 
 ---
 
-# 🌱 Arnold Huaman Zamora
-### ▸ Aspirante a Ingeniero de Software | Backend | IA | Ciberseguridad
+# 👨‍💻 Arnold Huaman Zamora  
+### ▸ Software Engineering Student | Backend Developer in Progress
 
 <p align="center">
-<img src="https://img.shields.io/badge/Location-Perú-6B4F3C?style=for-the-badge&labelColor=1A4D2E"/>
-<img src="https://img.shields.io/badge/Open%20To-Oportunidades%20Jr/Trainee-8B5A2B?style=for-the-badge&labelColor=2E5C3E"/>
-<img src="https://img.shields.io/badge/Focus-Aprender%20y%20Construir-A77B55?style=for-the-badge&labelColor=1A4D2E"/>
-<img src="https://img.shields.io/badge/Mindset-En%20Crecimiento%20Constante-6B8E23?style=for-the-badge&labelColor=2E5C3E"/>
+<img src="https://img.shields.io/badge/Location-Perú-0f2027?style=for-the-badge&logo=googlemaps&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Open%20To-Jr%20Opportunities-111827?style=for-the-badge&logo=rocket&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Focus-Backend%20Architecture-1e293b?style=for-the-badge&logo=server&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Mindset-Continuous%20Growth-000000?style=for-the-badge&logo=brain&logoColor=8A2BE2"/>
 </p>
 
 ---
 
-## 🧭 Sobre Mí
+## 🚀 About Me
 
-👨‍💻 Estudiante de **Ingeniería de Software en SENATI** y orgulloso **becario de Beca 18 - PRONABEC**.
+🎓 Software Engineering student at **SENATI**  
+🎖️ Scholar of **Beca 18 - PRONABEC**  
 
-Me apasiona construir soluciones tecnológicas con fundamentos sólidos, enfoque en seguridad y visión de largo plazo.
+I’m focused on building secure backend systems, understanding real-world architecture, and applying AI for automation.
 
-🎯 Mi objetivo es especializarme en **desarrollo backend seguro** y **automatización con IA**, construyendo sistemas preparados para entornos reales.
-
-🔭 **Actualmente estoy:**
-- Profundizando en **Docker** y contenedorización.
-- Fortaleciendo fundamentos en **bases de datos relacionales (PostgreSQL)**.
-- Estudiando principios de **ciberseguridad (OWASP, Linux)**.
-- Construyendo proyectos prácticos para consolidar conocimientos.
-
----
-
-## 🧠 Áreas de Interés y Aprendizaje Activo
-
-### ☕ Backend (En formación)
-- Desarrollo de lógica de servidor con **Node.js** y **Python**.
-- Construcción de **APIs REST**.
-- Modelado de datos y consultas en **PostgreSQL**.
-- Fundamentos de arquitectura y buenas prácticas.
-
-### 🔐 Ciberseguridad (Entusiasta)
-- Estudio del **OWASP Top 10**.
-- Uso de **Linux** en entornos de desarrollo.
-- Autenticación y autorización con **JWT**.
-- Principios de hashing y protección de contraseñas.
-- Interés en *hacking ético* como campo de aprendizaje.
-
-### 🤖 Inteligencia Artificial (Explorador)
-- Integración de **APIs de LLMs (OpenAI)**.
-- Automatización inteligente aplicada a proyectos.
-- Exploración práctica de soluciones con IA.
+🔍 Currently working on:
+- Backend development with **Node.js** & **Python**
+- Database design with **PostgreSQL**
+- Containerization with **Docker**
+- Studying **OWASP security principles**
 
 ---
 
-## 🛠️ Stack de Tecnologías
-
-### 💻 Backend & Lenguajes
-<p>
-<img src="https://skillicons.dev/icons?i=python,nodejs,express,postgres,fastapi" />
-</p>
-
-### 🌐 Frontend (Nivel básico)
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>
-
-### ⚙️ Herramientas & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=6B4F3C" />
-</p>
-
-### 🔒 Seguridad
-<p>
-<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&labelColor=6B4F3C"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1A4D2E"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&labelColor=8B5A2B"/>
-</p>
-
----
-
-## 🚀 Proyectos en Desarrollo
-
-### 📦 Mi Bodega Digital
-*Sistema prototipo de gestión de inventarios.*
-
-- Infraestructura optimizada para bajo costo.
-- Implementación de operaciones CRUD seguras.
-- Gestión de datos en tiempo real.
-- Enfoque práctico en arquitectura backend.
-
----
-
-### 📝 API de Tareas con Autenticación
-*API REST construida con Node.js, Express y JWT.*
-
-- Registro e inicio de sesión de usuarios.
-- Rutas protegidas mediante autenticación.
-- Manejo seguro de tokens.
-- Testing de endpoints con Postman.
-
----
-
-## 🎯 Enfoque Actual de Estudio
+## 🧠 Learning Focus
 
 ```javascript
-const aprendizaje = {
-  prioridad: "Construir una base técnica sólida",
-  enfoque: [
-    "Modelado avanzado en PostgreSQL",
-    "Dominar Docker para entornos profesionales",
-    "Fundamentos formales de ciberseguridad",
-    "Desarrollar un proyecto portfolio completo (Backend + IA)"
-  ],
-  mentalidad: "Disciplina, consistencia y mejora continua."
+const engineerMode = {
+  backend: ["REST APIs", "Authentication", "PostgreSQL"],
+  security: ["OWASP Top 10", "JWT", "Hashing"],
+  devops: ["Docker", "Linux fundamentals"],
+  ai: ["LLM APIs integration"],
+  mindset: "Discipline > Motivation"
 };
 ```
 
 ---
 
-## 📡 Conecta Conmigo
+## 🛠️ Tech Stack
+
+### 💻 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash" />
+<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+</p>
+
+---
+
+## 📂 Projects
+
+### 🔐 Secure Tasks API
+- JWT Authentication
+- Protected routes
+- RESTful structure
+- Endpoint testing with Postman
+
+### 📦 Inventory System (Prototype)
+- CRUD operations
+- Real-time database
+- Low-cost cloud architecture
+- Backend-first design
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldZamoratec&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📡 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/arnoldhuaman">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1A4D2E&color=6B4F3C"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:huamanzamoraarnold@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A4D2E&color=8B5A2B"/>
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 <a href="https://github.com/ArnoldZamoratec">
-<img src="https://img.shields.io/badge/GitHub-Mis%20Proyectos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A4D2E&color=2E5C3E"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ArnoldZamoratec&color=6B4F3C&style=for-the-badge&label=VISITAS"/>
-</p>
+---
 
 <p align="center">
-<b>🌱 "El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."</b>
-</p>
-
-<p align="center">
-<b>#EnProcesoDeConvertirmeEnIngeniero</b>
+⚡ Building skills. Writing code. Leveling up daily.
 </p>
