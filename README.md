@@ -47,7 +47,6 @@ I build intelligent systems, production-ready applications, and secure infrastru
 Projects like:
 
 - 🏪 **Mi Bodega Digital**  
-- 🤝 **Ayni Vecinal**
 
 Focused on:
 
@@ -94,7 +93,7 @@ Focused on:
 # 🔗 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/arnoldhuaman">
+  <a href="https://www.linkedin.com/in/arnold-huaman/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:huamanzamoraarnold@gmail.com">
