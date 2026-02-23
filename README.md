@@ -1,140 +1,148 @@
 <!-- HEADER VISUAL -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=240&section=header&text=Arnold%20Huaman%20Zamora&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Backend%20Architect%20•%20AI%20Engineer%20•%20Cybersecurity%20Researcher&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A4D2E,50:6B4F3C,100:A77B55&height=240&section=header&text=Arnold%20Huaman%20Zamora&fontSize=48&fontColor=F5F5DC&animation=fadeIn&desc=Aspirante%20a%20Backend%20•%20AI%20•%20Ciberseguridad&descAlignY=65&descSize=20"/>
 </p>
 
 ---
 
-# 🛡️ Arnold Huaman Zamora
-### ⚡ Security-First Software Engineer | Backend | AI | Cybersecurity
+# 🌱 Arnold Huaman Zamora
+### ▸ Aspirante a Ingeniero de Software | Backend | IA | Ciberseguridad
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Location-Peru-ff4b4b?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-Work-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Secure%20Systems-2196F3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mindset-Production%20Ready-9C27B0?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Location-Perú-6B4F3C?style=for-the-badge&labelColor=1A4D2E"/>
+<img src="https://img.shields.io/badge/Open%20To-Oportunidades%20Jr/Trainee-8B5A2B?style=for-the-badge&labelColor=2E5C3E"/>
+<img src="https://img.shields.io/badge/Focus-Aprender%20y%20Construir-A77B55?style=for-the-badge&labelColor=1A4D2E"/>
+<img src="https://img.shields.io/badge/Mindset-En%20Crecimiento%20Constante-6B8E23?style=for-the-badge&labelColor=2E5C3E"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧭 Sobre Mí
 
-🧠 I design **secure, scalable, real-world production systems**
+👨‍💻 Estudiante de **Ingeniería de Software en SENATI** y orgulloso **becario de Beca 18 - PRONABEC**.
 
-🔐 Security is integrated **from architecture → code → deployment**
+Me apasiona construir soluciones tecnológicas con fundamentos sólidos, enfoque en seguridad y visión de largo plazo.
 
-⚡ Specialized in:
-- High-Performance Backend Systems  
-- Applied AI Automation  
-- Cloud Native & Microservices  
-- Cybersecurity Engineering  
+🎯 Mi objetivo es especializarme en **desarrollo backend seguro** y **automatización con IA**, construyendo sistemas preparados para entornos reales.
 
-🎓 Software Engineering — **SENATI**  
-🏅 **PRONABEC Beca 18 Scholar**
-
----
-
-## 🧠 Engineering Domains
-
-### ⚡ Backend Architecture
-- Microservices & Distributed Systems  
-- REST / GraphQL APIs  
-- High Performance Database Design  
-- Caching & Query Optimization  
-
-### 🔐 Cybersecurity
-- OWASP Top 10 Defense  
-- Secure Authentication (JWT / OAuth2)  
-- Encryption & Hashing  
-- Pentesting Fundamentals  
-
-### 🤖 Applied AI
-- LLM Integrations  
-- Intelligent Automation  
-- Security AI Models  
-- Data Intelligence Systems  
+🔭 **Actualmente estoy:**
+- Profundizando en **Docker** y contenedorización.
+- Fortaleciendo fundamentos en **bases de datos relacionales (PostgreSQL)**.
+- Estudiando principios de **ciberseguridad (OWASP, Linux)**.
+- Construyendo proyectos prácticos para consolidar conocimientos.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Áreas de Interés y Aprendizaje Activo
 
-### 💻 Backend & Languages
+### ☕ Backend (En formación)
+- Desarrollo de lógica de servidor con **Node.js** y **Python**.
+- Construcción de **APIs REST**.
+- Modelado de datos y consultas en **PostgreSQL**.
+- Fundamentos de arquitectura y buenas prácticas.
+
+### 🔐 Ciberseguridad (Entusiasta)
+- Estudio del **OWASP Top 10**.
+- Uso de **Linux** en entornos de desarrollo.
+- Autenticación y autorización con **JWT**.
+- Principios de hashing y protección de contraseñas.
+- Interés en *hacking ético* como campo de aprendizaje.
+
+### 🤖 Inteligencia Artificial (Explorador)
+- Integración de **APIs de LLMs (OpenAI)**.
+- Automatización inteligente aplicada a proyectos.
+- Exploración práctica de soluciones con IA.
+
+---
+
+## 🛠️ Stack de Tecnologías
+
+### 💻 Backend & Lenguajes
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,fastapi,postgres" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,postgres,fastapi" />
 </p>
 
-### ☁️ Cloud & DevOps
+### 🌐 Frontend (Nivel básico)
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,firebase,supabase,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
-### 🔒 Security Toolkit
+### ⚙️ Herramientas & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash" />
-<img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kalilinux"/>
-<img src="https://img.shields.io/badge/Nmap-darkblue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=6B4F3C" />
+</p>
+
+### 🔒 Seguridad
+<p>
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&labelColor=6B4F3C"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=1A4D2E"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&labelColor=8B5A2B"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-
----
+## 🚀 Proyectos en Desarrollo
 
 ### 📦 Mi Bodega Digital
-**Firebase · Cloud Functions · Firestore**
+*Sistema prototipo de gestión de inventarios.*
 
-✔ Zero Cost Infra Model  
-✔ Real Time Analytics  
-✔ Audit Ready CRUD  
+- Infraestructura optimizada para bajo costo.
+- Implementación de operaciones CRUD seguras.
+- Gestión de datos en tiempo real.
+- Enfoque práctico en arquitectura backend.
 
 ---
 
+### 📝 API de Tareas con Autenticación
+*API REST construida con Node.js, Express y JWT.*
 
-## 🎯 Current Focus
+- Registro e inicio de sesión de usuarios.
+- Rutas protegidas mediante autenticación.
+- Manejo seguro de tokens.
+- Testing de endpoints con Postman.
 
-```diff
-+ Secure Authentication Architectures
-+ AI Security Automation
-+ High Performance APIs
-+ Cloud Security
-+ Threat Detection Systems
+---
+
+## 🎯 Enfoque Actual de Estudio
+
+```javascript
+const aprendizaje = {
+  prioridad: "Construir una base técnica sólida",
+  enfoque: [
+    "Modelado avanzado en PostgreSQL",
+    "Dominar Docker para entornos profesionales",
+    "Fundamentos formales de ciberseguridad",
+    "Desarrollar un proyecto portfolio completo (Backend + IA)"
+  ],
+  mentalidad: "Disciplina, consistencia y mejora continua."
+};
 ```
 
 ---
 
-## 📡 Connect With Me
+## 📡 Conecta Conmigo
 
 <p align="center">
-
 <a href="https://linkedin.com/in/arnoldhuaman">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1A4D2E&color=6B4F3C"/>
 </a>
-
 <a href="mailto:huamanzamoraarnold@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A4D2E&color=8B5A2B"/>
 </a>
-
 <a href="https://github.com/ArnoldZamoratec">
-<img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Mis%20Proyectos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A4D2E&color=2E5C3E"/>
 </a>
-
 </p>
 
----
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ArnoldZamoratec&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ArnoldZamoratec&color=6B4F3C&style=for-the-badge&label=VISITAS"/>
 </p>
 
----
+<p align="center">
+<b>🌱 "El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."</b>
+</p>
 
 <p align="center">
-<b>⚡ "Security is not a feature — it's the foundation."</b>
+<b>#EnProcesoDeConvertirmeEnIngeniero</b>
 </p>
