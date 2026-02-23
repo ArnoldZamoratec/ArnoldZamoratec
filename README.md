@@ -1,164 +1,156 @@
-<!-- ===================================================== -->
-<!-- Arnold Huaman Zamora | AI Systems Engineer           -->
-<!-- Production AI • Distributed Systems • ML Infrastructure -->
-<!-- ===================================================== -->
+# ┌─[ arnold@ai-systems ]─[ ~/core ]
+# └──╼ Arnold Huaman Zamora
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0f3057,100:16213e&height=260&section=header&text=Arnold%20Huaman%20Zamora&fontSize=48&fontColor=5fcde4&animation=fadeIn&desc=AI%20Systems%20Engineer%20•%20ML%20Infrastructure%20Architect&descSize=18&descAlignY=65"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Lima,%20Peru-5fcde4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Specialty-Distributed%20AI-FFD700?style=for-the-badge&logo=airplay&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Focus-Production%20Systems-2ea44f?style=for-the-badge&logo=datadog&logoColor=white"/>
-</p>
+> AI Systems Engineer  
+> Distributed AI • ML Infrastructure • Production Systems  
 
 ---
 
-## 🧠 About Me
+## $ whoami
 
 ```bash
-> Arnold Huaman Zamora
-> AI Systems Engineer | Software Architect
-> Designing scalable, observable and resilient AI systems
+arnold@ai-systems:~$ cat profile.txt
+Name: Arnold Huaman Zamora
+Role: AI Systems Engineer
+Focus: Production-grade AI infrastructure
+Mission: Design resilient, scalable, observable systems
 ```
 
-I specialize in **bridging research-grade models with production-grade infrastructure**.
-
-My work focuses on:
-
-- ⚡ High-throughput inference systems  
-- 🧩 Distributed AI microservices  
-- 📦 RAG systems at scale  
-- 🔍 Observability-first ML infrastructure  
-- 🔁 Automated CI/CD & retraining pipelines  
+I engineer AI systems that survive real traffic, real scale, and real failure.
 
 ---
 
-## 🏗 Core Expertise
-
-```bash
-$ tree -L 1 core-expertise/
-```
+## $ tree -L 1 expertise/
 
 ```
-ml-infrastructure/
-distributed-systems/
-production-ai/
-neural-engineering/
+expertise/
+├── ml-infrastructure/
+├── distributed-systems/
+├── production-ai/
+└── neural-optimization/
 ```
 
-### ML Infrastructure
-- Quantization (INT8, FP16)
+### ml-infrastructure/
+- Quantization (INT8 / FP16)
 - TensorRT optimization
-- High-performance inference pipelines
+- High-throughput inference
+- Cost-aware LLM deployment
 
-### Distributed Systems
+### distributed-systems/
 - Event-driven architectures
-- AI-focused microservices
-- Horizontal auto-scaling systems
+- AI microservices
+- Horizontal auto-scaling
+- Failure-tolerant design
 
-### Production AI
-- RAG frameworks at scale
+### production-ai/
+- Large-scale RAG systems
 - Vector search optimization
-- LLMOps & guardrails
+- LLMOps pipelines
+- Guardrails & monitoring
 
-### Neural Engineering
-- Transformer optimization
-- Diffusion tuning
-- Custom kernel acceleration
-
----
-
-## ⚙ Tech Stack
-
-### Core AI
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,rust" />
-</p>
-
-### Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,grafana,prometheus" />
-</p>
-
-### Advanced Systems
-- **LLM Systems:** LangChain, LlamaIndex, OpenAI, Anthropic  
-- **Vector DBs:** Pinecone, Milvus, Qdrant  
-- **Messaging:** Redis, RabbitMQ, Apache Kafka  
-- **MLOps:** MLflow, Kubeflow, GitHub Actions  
+### neural-optimization/
+- Transformer tuning
+- Diffusion model optimization
+- Kernel-level performance tweaks
 
 ---
 
-## 🧩 Design Philosophy
+## $ echo $TECH_STACK
+
+```bash
+AI:
+  - PyTorch
+  - TensorFlow
+
+Backend:
+  - Python
+  - FastAPI
+  - Node.js
+  - Rust
+
+Infrastructure:
+  - Docker
+  - Kubernetes
+  - Linux
+
+Data & Messaging:
+  - Redis
+  - RabbitMQ
+  - Apache Kafka
+
+Vector & LLM:
+  - Pinecone
+  - Milvus
+  - Qdrant
+  - LangChain
+  - LlamaIndex
+```
+
+---
+
+## $ cat design_principles.py
 
 ```python
 class AISystemsEngineer:
-    def design_principles(self):
+
+    def build(self):
         return {
-            "Performance": "Latency matters as much as accuracy.",
-            "Resilience": "Graceful degradation > system failure.",
-            "Observability": "Metrics, traces, logs are mandatory.",
-            "Automation": "Eliminate manual operational toil.",
-            "Data-Centricity": "Trustworthy systems start with reliable data."
+            "Performance": "Latency is a feature.",
+            "Resilience": "Systems must degrade gracefully.",
+            "Observability": "No metrics, no trust.",
+            "Automation": "Manual ops is technical debt.",
+            "Scalability": "Design for 10x, not for demo."
         }
 ```
 
 ---
 
-## 🚀 Featured Projects
+## $ ls projects/
 
-### 🔹 High-Scale RAG Framework
+```
+projects/
+├── high-scale-rag-framework
+└── distributed-vision-cluster
+```
 
-Production-ready document intelligence platform.
+### high-scale-rag-framework
+- Production RAG system
+- 40% token reduction (semantic routing + caching)
+- 99.9% uptime
+- <5s latency (32k tokens)
 
-**Stack:** LangChain · Pinecone · FastAPI · OpenAI  
-**Impact:** 40% token reduction via semantic routing  
-**Reliability:** 99.9% uptime · <5s latency (32k tokens)
-
----
-
-### 🔹 Distributed Computer Vision Cluster
-
-Auto-scaling inference pipeline for real-time video analytics.
-
-**Stack:** TensorFlow · OpenCV · Kubernetes · RabbitMQ  
-**Scale:** 10 → 1000+ concurrent requests  
-**Latency:** <50ms per frame  
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArnoldZamoratec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldZamoratec&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</p>
+### distributed-vision-cluster
+- Auto-scaling real-time inference
+- 10 → 1000+ concurrent requests
+- <50ms per-frame latency
+- Kubernetes-native architecture
 
 ---
 
-## 🤝 Connect
+## $ tail -f /var/log/engineering.log
 
-<p align="center">
-  <a href="https://linkedin.com/in/arnoldhuaman">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:huamanzamoraarnold@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```
+[INFO] Detect bottlenecks.
+[INFO] Remove abstraction overhead.
+[INFO] Optimize inference cost.
+[INFO] Add observability.
+[INFO] Prepare for failure.
+[INFO] Iterate.
+```
+
+Systems are never finished.
+They are refined.
 
 ---
 
-<p align="center">
-  <code>● engineer.service — Ready for the next distributed challenge.</code>
-</p>
+## $ contact --secure
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0f3057,100:0a192f&height=150&section=footer"/>
-</p>
+LinkedIn: https://linkedin.com/in/arnoldhuaman  
+Email: huamanzamoraarnold@gmail.com  
+
+---
+
+```
+● engineer.service - active (running)
+Status: Ready for the next distributed challenge.
+```
