@@ -44,16 +44,6 @@ I build intelligent systems, production-ready applications, and secure infrastru
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-Projects like:
-
-- 🏪 **Mi Bodega Digital**  
-
-Focused on:
-
-- Clean UI/UX design  
-- Scalable frontend architecture  
-- Backend logic & API development  
-- Secure authentication flows  
 
 ---
 
