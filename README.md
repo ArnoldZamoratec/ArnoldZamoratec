@@ -1,8 +1,7 @@
 # 🚀 Arnold Huaman Zamora
 
-### AI Systems Engineer · Full Stack Developer · Data & Security Enthusiast
-
-I'm a software engineer specialized in Artificial Intelligence, scalable web systems, and automation-driven development.  
+###I'm a software engineer specialized in Artificial Intelligence, scalable web systems, 
+and automation-driven development. 
 I build intelligent systems, production-ready applications, and secure infrastructures.
 
 ---
