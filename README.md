@@ -1,6 +1,6 @@
 # 🚀 Arnold Huaman Zamora
 
-###I'm a software engineer specialized in Artificial Intelligence, scalable web systems, 
+I'm a software engineer specialized in Artificial Intelligence, scalable web systems, 
 and automation-driven development. 
 I build intelligent systems, production-ready applications, and secure infrastructures.
 
