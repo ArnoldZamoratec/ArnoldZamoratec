@@ -1,6 +1,6 @@
 <!-- ════════════════════════ HERO ════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:00C2FF&height=260&section=header&text=Arnold%20Huaman%20Zamora&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Backend%20%C2%B7%20Android%20%C2%B7%20Applied%20AI%20%C2%B7%20Security-first&descAlignY=58&descSize=18&animation=twinkling" alt="Arnold Huaman Zamora"/>
+  <img src="https://raw.githubusercontent.com/ArnoldZamoratec/ArnoldZamoratec/main/assets/banner.svg" width="100%" alt="Arnold Huaman Zamora · Brand banner"/>
 </p>
 
 <p align="center">
@@ -27,18 +27,9 @@
 
 ## 🧑‍💻 Quién soy
 
-```python
-class Arnold:
-    location     = "Lima, Perú 🇵🇪  ·  Villa El Salvador"
-    studying     = "Ingeniería de Software con mención en IA — SENATI"
-    scholarship  = "Beca 18 · PRONABEC"
-    working_at   = "Practicante de Desarrollo de Software · MINICODEVELOPERS S.A.C.S."
-    building     = ["KUSI ALERT", "HablaFacil", "ViralSub AI", "SecretGuard CLI"]
-    languages    = {"Español": "nativo", "Quechua": "nativo", "Inglés": "B2"}
-
-    def mission(self):
-        return "Tecnología que sirve a las personas — incluidas las comunidades como la mía."
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArnoldZamoratec/ArnoldZamoratec/main/assets/quien-soy.svg" width="92%" alt="Quién soy · código"/>
+</p>
 
 ---
 
